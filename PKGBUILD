@@ -1,6 +1,6 @@
 # Maintainer: Xorell <xorell@protonmail.com>
 pkgname=someblocks-xorell-git
-pkgver=0.4.r5.f8373cc
+pkgver=1.0.1.r0.28d7e79
 pkgrel=1
 pkgdesc="Modular status bar blocks for somebar written in c."
 arch=('x86_64')
